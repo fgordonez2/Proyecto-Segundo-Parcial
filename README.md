@@ -10,7 +10,7 @@ Integrantes:
 
 ***General***
 
-*- 
+*Interruptor de 3 vías (luz de escaleras)
 
 ***Especificos***
 
