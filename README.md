@@ -4,13 +4,13 @@ Integrantes:
 - Ordóñez Quiroz Fernando Gabriel
 - Pilataxi Constante Luis Jairo
 
-# LED NOCTURNO AUTOMÁTICO
+# Interruptor de 3 vías (luz de escaleras)
 
 ## 1. OBJETIVOS
 
 ***General***
 
-*Interruptor de 3 vías (luz de escaleras)
+*
 
 ***Especificos***
 
