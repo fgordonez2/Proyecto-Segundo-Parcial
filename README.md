@@ -22,6 +22,7 @@ Integrantes:
 
 ## 2. MARCO TEÓRICO
 
+![Esquema Mapa Conceptual Doodle Multicolor (1)](https://user-images.githubusercontent.com/116774906/212799677-06bfcfcf-44f6-4a8f-ad7a-53d35289bf44.png)
 
 
 ## 3. EXPLICACIÓN DEL PROCEDIMIENTO
