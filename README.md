@@ -27,6 +27,17 @@ Integrantes:
 
 ## 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
+***CIRCUITO ESCALERA REPRESENTADO DE FORMA ESQUEMATICA***
+
+![image](https://user-images.githubusercontent.com/116774906/212811970-20c135e8-5251-4ed0-a237-410831dcf2c5.png)
+
+***CIRCUITO ESCALERA-APAGADO***
+
+![image](https://user-images.githubusercontent.com/116774906/212812111-baf00543-ebf7-40c8-a43e-0efae15291fe.png)
+
+***CIRCUITO ESCALERA-ENCENDIDO***
+
+![image](https://user-images.githubusercontent.com/116774906/212812239-e30e397a-16b6-475a-b1a2-023af84001af.png)
 
 ## 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
