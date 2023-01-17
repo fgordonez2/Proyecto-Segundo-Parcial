@@ -30,7 +30,7 @@ Integrantes:
 
 ## 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
-*1.-¿Por qué es importante hacer conexión a tierra?*
+**1.-¿Por qué es importante hacer conexión a tierra?**
 
 Estas son 5 razones por las cuales las corrientes eléctricas a tierra son tan importantes:
 
