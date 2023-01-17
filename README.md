@@ -31,7 +31,18 @@ Integrantes:
 ## 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
 *1.-¿Por qué es importante hacer conexión a tierra?*
-- 
+
+Estas son 5 razones por las cuales las corrientes eléctricas a tierra son tan importantes:
+
+1.-Protección contra sobrecarga eléctrica
+Una de las razones más importantes para conectar a tierra las corrientes eléctricas es que protege sus electrodomésticos, su hogar y todos los que están expuestos a sobretensiones de electricidad. Si un rayo llegara a golpear o la potencia fuera a elevarse por la razón que sea, esto produce picos de corriente peligrosamente altos en su sistema. Si su sistema eléctrico está conectado a tierra, todo ese exceso de electricidad irá a la tierra, en lugar de freír todo lo que está conectado a su sistema.
+
+
+
+
+
+
+
 *2.-¿Qué diferencia existe entre los cables calibre 12 y 14?*
 - 
 *3.-¿Cómo se mide el voltaje en una conexión de un foco?*
