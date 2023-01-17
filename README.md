@@ -14,15 +14,14 @@ Integrantes:
 
 ***Especificos***
 
-*Identificar los materiales y elementos implementados en la elaboracóon del circuito, ademas de conocer su importancia.*
+*Explicar porqué no se necesita conexión a tierra en este tipo de circuitos*
 
-*Explicar porqué no se necesita conexión a tierra en este tipo de circuitos.*
+*Analizar las conexiones fase, neutro y tierra*
 
-*Analizar las conexiones fase, neutro y tierra.*
-
-*Justificar la implementación de dicho circuito en la vida profesional, como en edificios, empresas, entre otros.* 
+*Justificar la implementación de dicho circuito en la vida real, como en edificios, empresas, entre otros* 
 
 ## 2. MARCO TEÓRICO
+
 
 ![Esquema Mapa Conceptual Doodle Multicolor (1)](https://user-images.githubusercontent.com/116774906/212799677-06bfcfcf-44f6-4a8f-ad7a-53d35289bf44.png)
 
@@ -30,7 +29,7 @@ Integrantes:
 
 ![image](https://user-images.githubusercontent.com/104925648/212814588-81fa152d-d630-4c19-b400-70c97546d0cc.png)
 
-
+   ![image](https://user-images.githubusercontent.com/116705680/212815301-600fde2d-a850-4bbd-b6f4-b3b8ae5d5e71.png)
 
 ## 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
@@ -45,24 +44,6 @@ Integrantes:
 ***CIRCUITO ESCALERA-ENCENDIDO***
 
 ![image](https://user-images.githubusercontent.com/116774906/212812239-e30e397a-16b6-475a-b1a2-023af84001af.png)
-
-***PROCEDIMIENTO DEL ARMADO DEL CIRCUITO POR INGENIERÍA INVERSA.*** 
-
-1. Colocamos una tabla que servirá como soporte para el ensamblaje de nuestro circuito en escalera. 
-
-2. Ubicamos los cajetines en la tabla, estos son hechos generalmente de metal como el aluminio o plástico, usados para tapar empalmes, acometidas eléctricas o cables que alimentan al circuito, pero su eso es también para soporte de interruptores y switches. Y los fijamos con ayuda de tornillos. 
-
-3. Usamos las denominadas “vías”, que será tanto línea o fase, neutro y la tierra, que serán los conductores que alimenten y haga que funcione el circuito. Y vamos ubicando los cables en cada cajetín. 
-
-4. Con manguera corrugada vamos uniendo los cajetines metálicos de los interruptores al cajetín de la bombilla.
-
-5. Siguiente a eso ubicamos los interruptores 3 vías, este elemento permite el encendido y apagado de cualquier tipo de carga desde 2 puntos, bien este se compone de 3 terminales en el cual sus terminales al extremo servirán para conectar por medio de puentes o retornos con el segundo interruptor, los terminales del medio, en un interruptor el terminal del medio servirá como  fase que será la alimentación, y en el otro su terminal servirá como conexión de retorno, para que se pueda encender y apagar el circuito.
-
-6. Empalmamos los cables en las terminales de los interruptores y llevamos el retorno y fase a la boquilla de cerámica. Esta boquilla es un dispositivo que sirve para sostener lámparas o bombillas eléctricas y en su estructura encontramos dos terminales neutro y línea.
-
-7. El enchufe debemos igual manera ubicar en la conexión, esta pieza de material aislante con dos o tres salientes metálicas sirve para conectar un aparato a la conexión eléctrica, en nuestro caso para que haya energía en el circuito, empalmamos la fase o línea del enchufe con el del interruptor, y la ajustamos en la boquilla, y el neutro de igual manera.
-
-8. Por ultimo colocamos el foco, que es un elemento que sirve para iluminar instalaciones eléctricas, y con el enchufe lo conectamos a la red eléctrica del hogar. 
 
 ## 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
@@ -135,18 +116,13 @@ Al otro extremo de la escala Kelvin, los colores más cálidos con una temperatu
 
 ## 5. VIDEO
 
-*LINK DEL VIDEO*
+  * https://youtu.be/8FPlD35s6Z8
 
 ## 6. CONCLUSIONES
 
-*-Los materiales usados para la elaboración del circuito escalera, no son tan complicados de comprender su estructura y funcionamiento, ya que es de uso cotidiano en los hogares de las personas, pero conocer su importancia es fundamental para poder comprender como un circuito tan básico puede tener tanta relevancia al nivel mundial.*
+*-
 
-*-La tierra o tierra de referencia es importante para la protección diferencial, ya que la conexión de equipos eléctricos a puestas a tierra es de vital importancia para su seguridad ante contactos indirectos, ya que, sin esta conexión, no existe ninguna protección ante la variación de corriente.*
-
-*-Tener claro que es fase, neutro y tierra es fundamental, para las conexiones eléctricas, tener siempre en claro que fase o línea es el lugar por el que entra la corriente eléctrica, el cable neutro cumple la función de permitir regresar a la corriente, y la tierra enlazan el enchufe de cada aparato eléctrico con la tierra, para que en caso de que surja algún tipo de corriente de fuga, o descarga de origen atmosférico como un rayo, la energía dañina fluya hacia el terreno y sea desviada, para no entrar en contacto.*
-
-*-Se recalca que las conexiones de escalera son muy usadas en hogares, edificios e industrias, ya que permite encender y apagar ya sea luminarias de un punto A en un punto B, pero con el paso del tiempo este se ha ido sustituido con la implementación de sensores, pero nada quita su importancia en el mundo.*
-
+*-
 
 ## 7. BIBLIOGRAFÍA
 
