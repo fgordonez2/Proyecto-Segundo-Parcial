@@ -120,9 +120,9 @@ Al otro extremo de la escala Kelvin, los colores más cálidos con una temperatu
 
 ## 6. CONCLUSIONES
 
-*-
+*- EL principio de funcionamiento del circuito escalera es bastante facil de entender y de mucha utilidad para el control de seguridad en circuitos ya que proporciona una forma de controlar el voltaje que cruza por una coneccion completa mediante 2 controles directamente conectados y que necesitan polarizarse en conjunto para poder efectuar un paso de voltaje por el sistema, de lo contrario no cruzara y no existira ningun riesdo de electrocutamiento.
 
-*-
+*- Es necesario tomar las medidas de seguridad pertinentes al momento de trabajar con circuitos los cuales se conectaran de forma directa a una fuente de voltaje que presenta valores que pueden poner en riesgo la vida humana, por el mismo echo tambien se debe tener los conceptos basicos de como interactua la corriente con los objetos y su entorno bien claros. 
 
 ## 7. BIBLIOGRAFÍA
 
