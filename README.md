@@ -34,7 +34,7 @@ Integrantes:
 - 
 *2.-¿Qué diferencia existe entre los cables calibre 12 y 14?*
 - 
-*3.-¿Cómo se mide el volatje en una conexión de un foco?*
+*3.-¿Cómo se mide el voltaje en una conexión de un foco?*
 - 
 *4.-¿Qué medidas de seguridad tomar al realizar conexiones con electricidad directa?* 
 - 
