@@ -16,11 +16,11 @@ Integrantes:
 
 *Identificar los materiales y elementos implementados en la elaboracion del circuito, ademas de conocer su importancia.*
 
-*Explicar porqué no se necesita conexión a tierra en este tipo de circuitos*
+*Explicar porqué no se necesita conexión a tierra en este tipo de circuitos.*
 
-*Analizar las conexiones fase, neutro y tierra*
+*Analizar las conexiones fase, neutro y tierra.*
 
-*Justificar la implementación de dicho circuito en la vida real, como en edificios, empresas, entre otros* 
+*Justificar la implementación de dicho circuito en la vida profesional, como en edificios, empresas, entre otros.* 
 
 ## 2. MARCO TEÓRICO
 
