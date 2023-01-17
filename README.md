@@ -10,8 +10,7 @@ Integrantes:
 
 ***General***
 
-*Implementar un circuito de mayor esccalar en este caso "Circuito de 3 vías", para conocer sus resepctivas conexiones como fase, neutro y tierra,
-  mediante la investigación y los conocimientos adquiridos hasta hoy*
+*Implementar un circuito de mayor esccalar visto desde el plano eléctrico en este caso "Circuito de 3 vías", para conocer sus resepctivas conexiones como fase, neutro  y tierra, mediante la investigación y los conocimientos adquiridos hasta hoy*
 
 ***Especificos***
 
