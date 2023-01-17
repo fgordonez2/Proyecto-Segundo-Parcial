@@ -14,6 +14,8 @@ Integrantes:
 
 ***Especificos***
 
+*Identificar los materiales y elementos implementados en la elaboracion del circuito, ademas de conocer su importancia.*
+
 *Explicar porqué no se necesita conexión a tierra en este tipo de circuitos*
 
 *Analizar las conexiones fase, neutro y tierra*
