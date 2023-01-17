@@ -15,11 +15,11 @@ Integrantes:
 
 ***Especificos***
 
-*- 
+*Explicar porqué no se necesita conexión a tierra en este tipo de circuitos*
 
-*- 
+*Analizar las conexiones fase, neutro y tierra*
 
-*- 
+*Justificar la implementación de dicho circuito en la vida real, como en edificios, empresas, entre otros* 
 
 ## 2. MARCO TEÓRICO
 
