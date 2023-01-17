@@ -24,6 +24,11 @@ Integrantes:
 
 ![Esquema Mapa Conceptual Doodle Multicolor (1)](https://user-images.githubusercontent.com/116774906/212799677-06bfcfcf-44f6-4a8f-ad7a-53d35289bf44.png)
 
+![image](https://user-images.githubusercontent.com/104925648/212814554-a61fbeef-8be7-4b25-b24c-29e9ed201b0f.png)
+
+![image](https://user-images.githubusercontent.com/104925648/212814588-81fa152d-d630-4c19-b400-70c97546d0cc.png)
+
+
 
 ## 3. EXPLICACIÓN DEL PROCEDIMIENTO
 
