@@ -42,15 +42,15 @@ Estas son 5 razones por las cuales las corrientes eléctricas a tierra son tan i
 
 *Tener su sistema eléctrico conectado a tierra significa que facilitará que la energía se dirija directamente a donde la necesite, permitiendo que las corrientes eléctricas viajen de manera segura y eficiente a través de su sistema eléctrico.*
 
-3.Estabiliza los niveles de voltaje
+3. Estabiliza los niveles de voltaje
 
 *Un sistema eléctrico con conexión a tierra también facilita la distribución de la cantidad potencia a todos los lugares correctos, lo que puede desempeñar un papel importante para ayudar a garantizar que los circuitos no se sobrecarguen ni se quemen. La tierra proporciona un punto de referencia común para las muchas fuentes de voltaje en un sistema eléctrico.*
 
-4.La tierra es el mejor conductor
+4. La tierra es el mejor conductor
 
 *Una de las razones por las que la conexión a tierra ayuda a mantenerlo a salvo es porque la tierra es un gran conductor y porque el exceso de electricidad siempre tomará el camino de menor resistencia. Al poner a tierra su sistema eléctrico, le está dando un lugar para ir a otro que no sea usted y posiblemente salvarle la vida.*
 
-5.Previene daños, lesiones y muerte
+5. Previene daños, lesiones y muerte
 
 *Está claro que el trabajo eléctrico a tierra es una jugada inteligente, pero ¿cómo funciona?
 En la mayoría de los hogares, el sistema de cableado está conectado a tierra de forma permanente a una barra de metal clavada en el suelo o una tubería de metal que se extiende dentro de la casa desde un sistema de suministro de agua subterránea. Un conductor de cobre conecta la tubería o varilla a un conjunto de terminales para conexiones a tierra en el panel de servicio. Para los sistemas de cableado que usan un cable eléctrico cubierto de metal, el metal generalmente sirve como conductor de tierra entre la toma de corriente de la pared y el panel de servicio.*
