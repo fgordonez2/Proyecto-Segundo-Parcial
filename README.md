@@ -14,7 +14,7 @@ Integrantes:
 
 ***Especificos***
 
-*Identificar los materiales y elementos implementados en la elaboracion del circuito, ademas de conocer su importancia.*
+*Identificar los materiales y elementos implementados en la elaboracóon del circuito, ademas de conocer su importancia.*
 
 *Explicar porqué no se necesita conexión a tierra en este tipo de circuitos.*
 
@@ -139,9 +139,14 @@ Al otro extremo de la escala Kelvin, los colores más cálidos con una temperatu
 
 ## 6. CONCLUSIONES
 
-*-
+*-Los materiales usados para la elaboración del circuito escalera, no son tan complicados de comprender su estructura y funcionamiento, ya que es de uso cotidiano en los hogares de las personas, pero conocer su importancia es fundamental para poder comprender como un circuito tan básico puede tener tanta relevancia al nivel mundial.*
 
-*-
+*-La tierra o tierra de referencia es importante para la protección diferencial, ya que la conexión de equipos eléctricos a puestas a tierra es de vital importancia para su seguridad ante contactos indirectos, ya que, sin esta conexión, no existe ninguna protección ante la variación de corriente.*
+
+*-Tener claro que es fase, neutro y tierra es fundamental, para las conexiones eléctricas, tener siempre en claro que fase o línea es el lugar por el que entra la corriente eléctrica, el cable neutro cumple la función de permitir regresar a la corriente, y la tierra enlazan el enchufe de cada aparato eléctrico con la tierra, para que en caso de que surja algún tipo de corriente de fuga, o descarga de origen atmosférico como un rayo, la energía dañina fluya hacia el terreno y sea desviada, para no entrar en contacto.*
+
+*-Se recalca que las conexiones de escalera son muy usadas en hogares, edificios e industrias, ya que permite encender y apagar ya sea luminarias de un punto A en un punto B, pero con el paso del tiempo este se ha ido sustituido con la implementación de sensores, pero nada quita su importancia en el mundo.*
+
 
 ## 7. BIBLIOGRAFÍA
 
