@@ -44,6 +44,24 @@ Integrantes:
 
 ![image](https://user-images.githubusercontent.com/116774906/212812239-e30e397a-16b6-475a-b1a2-023af84001af.png)
 
+***PROCEDIMIENTO DEL ARMADO DEL CIRCUITO POR INGENIERÍA INVERSA.*** 
+
+1. Colocamos una tabla que servirá como soporte para el ensamblaje de nuestro circuito en escalera. 
+
+2. Ubicamos los cajetines en la tabla, estos son hechos generalmente de metal como el aluminio o plástico, usados para tapar empalmes, acometidas eléctricas o cables que alimentan al circuito, pero su eso es también para soporte de interruptores y switches. Y los fijamos con ayuda de tornillos. 
+
+3. Usamos las denominadas “vías”, que será tanto línea o fase, neutro y la tierra, que serán los conductores que alimenten y haga que funcione el circuito. Y vamos ubicando los cables en cada cajetín. 
+
+4. Con manguera corrugada vamos uniendo los cajetines metálicos de los interruptores al cajetín de la bombilla.
+
+5. Siguiente a eso ubicamos los interruptores 3 vías, este elemento permite el encendido y apagado de cualquier tipo de carga desde 2 puntos, bien este se compone de 3 terminales en el cual sus terminales al extremo servirán para conectar por medio de puentes o retornos con el segundo interruptor, los terminales del medio, en un interruptor el terminal del medio servirá como  fase que será la alimentación, y en el otro su terminal servirá como conexión de retorno, para que se pueda encender y apagar el circuito.
+
+6. Empalmamos los cables en las terminales de los interruptores y llevamos el retorno y fase a la boquilla de cerámica. Esta boquilla es un dispositivo que sirve para sostener lámparas o bombillas eléctricas y en su estructura encontramos dos terminales neutro y línea.
+
+7. El enchufe debemos igual manera ubicar en la conexión, esta pieza de material aislante con dos o tres salientes metálicas sirve para conectar un aparato a la conexión eléctrica, en nuestro caso para que haya energía en el circuito, empalmamos la fase o línea del enchufe con el del interruptor, y la ajustamos en la boquilla, y el neutro de igual manera.
+
+8. Por ultimo colocamos el foco, que es un elemento que sirve para iluminar instalaciones eléctricas, y con el enchufe lo conectamos a la red eléctrica del hogar. 
+
 ## 4. RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
 
 **1.-¿Por qué es importante hacer conexión a tierra?**
